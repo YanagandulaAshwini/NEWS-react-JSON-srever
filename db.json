@@ -1,0 +1,40 @@
+{
+  "db": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "description": "The government and farmers will again hold talks today to resolve the deadlock over the controversial farm laws as the protests across the country intensify amid growing support. Thousands of protesters camping around Delhi-borders are insistent on the laws b…",
+      "id": 2
+    },
+    {
+      "description": "The government and farmers will again hold talks today to resolve the deadlock over the controversial farm laws as the protests across the country intensify amid growing support. Thousands of protesters camping around Delhi-borders are insistent on the laws b…",
+      "id": 3
+    },
+    {
+      "description": "Haryana Home Minister Anil Vij tweeted this morning to say that he has tested positive for coronavirus. Mr Vij, 67, said he is admitted at the Civil Hospital in Ambala.",
+      "id": 4
+    },
+    {
+      "description": "Haryana Home Minister Anil Vij tweeted this morning to say that he has tested positive for coronavirus. Mr Vij, 67, said he is admitted at the Civil Hospital in Ambala.",
+      "id": 5
+    },
+    {
+      "description": "The word of caution comes as the United States clocked a record number of Covid-19 cases for a second day in a row, with the country preparing for what US President-elect Joe Biden has called a “dark winter”.",
+      "newsurl": "https://www.hindustantimes.com/world-news/who-warns-virus-crisis-not-over-as-vaccine-rollout-approaches/story-zEgvrv3i0AFzIVN5BdBIAP.html",
+      "id": 6
+    },
+    {
+      "description": "The Chang’e, named after the Chinese moon goddess, is also scheduled to bring back the first lunar samples in four decades. China is now the third nation in the world, after the United States and the Soviet Union, to collect lunar samples for scientific purpo…",
+      "newsurl": "https://www.hindustantimes.com/india-news/china-plants-its-flag-on-moon-as-lunar-probe-takes-off-for-earth/story-77oITjrOb9IYXwxRa94DHL.html",
+      "id": 7
+    },
+    {
+      "description": "Using computer simulations, scientists have analysed the airflow patterns inside a car's passenger cabin, shedding light on the potential ways to reduce the risk of COVID-19 transmission while sharing rides with others.",
+      "newsurl": "https://www.indiatvnews.com/science/covid19-transmission-risk-airflow-inside-car-decoded-669461",
+      "id": 8
+    }
+  ]
+}
